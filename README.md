@@ -5,6 +5,7 @@
 - 📫 How to reach me:
 - fb.com/lqhaiii/
 - luongquochai0707@gmail.com
+- https://www.linkedin.com/in/luongquochai/
 
 <!---
 luongquochai/luongquochai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

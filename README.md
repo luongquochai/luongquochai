@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-- fb.com/lqhaiii/
+- [fb.com/lqhaiii/](https://www.facebook.com/lqhaiii/)
 - luongquochai0707@gmail.com
 - https://www.linkedin.com/in/luongquochai/
 
